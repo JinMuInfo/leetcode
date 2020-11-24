@@ -301,7 +301,7 @@
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateList/rotateList)|Medium|
 |60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/permutationSequence/permutationSequence)|Medium|
 |59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|Array| O(n^2) |O(1)| |
-|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord)|Easy|
+|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_58.java)|Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|Array <br> Greedy|O(n) | O(1)|Q45 |
@@ -336,7 +336,7 @@
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_26.java)|Easy| Array Two Pointer | O(n) | O(1) | |
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseNodesInKGroup/reverseNodesInKGroup)|Hard|
 |24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/swapNodesInPairs/swapNodesInPairs)|Medium|
-|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeKSortedLists/mergeKSortedLists)|Hard|
+|23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Hard|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_22.java/generateParentheses/generateParentheses)|Medium|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeTwoSortedList/mergeTwoSortedList)|Easy|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_20.java)|Easy|String Stack|O(n) | | 
