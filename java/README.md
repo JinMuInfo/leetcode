@@ -8,6 +8,7 @@
 
 | No.| Title | Solutions |  Difficulty | Related Topics | Time Complexity | Space Complexity |  Tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|1577|[Transpose Matrix](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1577.java)|Medium| HashTable  Math |O(n^2) | O(1)||
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_867.java)|Easy| Array |O(n) |O(1)||
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
