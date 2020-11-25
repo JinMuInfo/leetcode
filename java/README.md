@@ -8,7 +8,7 @@
 
 | No.| Title | Solutions |  Difficulty | Related Topics | Time Complexity | Space Complexity |  Tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|1577|[Transpose Matrix](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1577.java)|Medium| HashTable  Math |O(n^2) | O(1)||
+|1577|[number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1577.java)|Medium| HashTable  Math |O(n^2) | O(1)||
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_867.java)|Easy| Array |O(n) |O(1)||
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
@@ -33,6 +33,7 @@
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_637.java)|Easy|Tree  BFS | |  | |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_622.java)|Medium|Design  Queue |O(n) |O(1)  | 循环队列|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_599.java)|Easy|Hash Table | O(n)|  | |
+|593|[valid-square](https://leetcode.com/problems/valid-square/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_593.java)|Medium|Math| O(1)| O(1) | |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_561.java)|Easy|Array | |  | |
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_477.java)|Medium|Bit Manipulation|O(n)|O(1)| [links](https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation)|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | |Easy||||Locked|
